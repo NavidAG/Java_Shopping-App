@@ -1,0 +1,81 @@
+
+Xsquid:S1444/":Make this "public static clientBufferedWriter" field final(˜ú¢À8Ÿ»Äß±-
+squid:S13198"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(—ÿáØ8®Ş‘É±-
+[
+squid:S106S"9Replace this use of System.out or System.err by a logger.(§Û÷üÿÿÿÿ8®Ş‘É±-
+Ksquid:S1444"(Make this "public static ok" field final(…ëëÇşÿÿÿÿ8ÀÁõÊ±-
+osquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(ï¡†÷ÿÿÿÿÿ8İ”ğè±-
+Ysquid:S2696Y"6Make the enclosing method "static" or remove this set.(…ıúˆÿÿÿÿÿ8‹‹Åß±-
+`squid:S1444'"=Make this "public static clientInputStreamReader" field final(Ò†¨»úÿÿÿÿ8¨Åß±-
+•"squid:ClassVariableVisibilityCheck/"`Make clientBufferedWriter a static final constant or non-public and provide accessors if needed.(˜ú¢À8Ÿ»Äß±-
+Csquid:S30105"%Remove this assignment of "password".(÷ã´½8¸³Æß±-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ş“¦8’ÌÅˆ­-
+™squid:S1319<"{The type of the "productArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ÄÔª€8®Ş‘É±-
+[squid:S1444)"8Make this "public static clientOutputStream" field final(ÿ¯‰İşÿÿÿÿ8‹‹Åß±-
+Ssquid:S2696v"6Make the enclosing method "static" or remove this set.(ŸÚÁw8ÀÁõÊ±-
+squid:S1319"rThe type of the "product" object should be an interface such as "List" rather than the implementation "ArrayList".(â±ï¯8®Ş‘É±-
+\
+squid:S106©"9Replace this use of System.out or System.err by a logger.(¼ëöÀÿÿÿÿÿ8®Ş‘É±-
+"squid:ClassVariableVisibilityCheck'"cMake clientInputStreamReader a static final constant or non-public and provide accessors if needed.(Ò†¨»úÿÿÿÿ8¨Åß±-
+osquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(Èå¬üÿÿÿÿ8µİüè±-
+–"squid:ClassVariableVisibilityCheck"\Make productArrayList a static final constant or non-public and provide accessors if needed.(ÖÙŞ’şÿÿÿÿ8®Ş‘É±-
+—"squid:ClassVariableVisibilityCheck"bMake product_listOfConsumer a static final constant or non-public and provide accessors if needed.(¾Ÿ¡¨8®Ş‘É±-
+nsquid:S00100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùí¯8œÀ·Ï±-
+Tsquid:S2696]"6Make the enclosing method "static" or remove this set.(œ¾İ¶8Ÿ»Äß±-
+‡"squid:ClassVariableVisibilityCheck-"RMake reader a static final constant or non-public and provide accessors if needed.(áÏ¯8ÿÚÄß±-
+;squid:S2386"Make this member "protected".(â±ï¯8õŞß±-
+Zsquid:S2696š"6Make the enclosing method "static" or remove this set.(ûéÙÛşÿÿÿÿ8ôĞöè±-
+Ssquid:S2696U"6Make the enclosing method "static" or remove this set.(âú‘?8¦ÀÅß±-
+vsquid:ModifiersOrderCheck#"EReorder the modifiers to comply with the Java Language Specification.(ÎÊë®ıÿÿÿÿ8®Ş‘É±-
+Ssquid:S2209I"5Change this instance-reference to a static reference.(ÇğË‰8ˆĞ¬Ï±-
+qsquid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÕÃ‚8·’Ï±-
+"squid:ClassVariableVisibilityCheck+"dMake clientOutputStreamWriter a static final constant or non-public and provide accessors if needed.(÷æÑøÿÿÿÿ8ÉñÄß±-
+"squid:ClassVariableVisibilityCheck"TMake userName a static final constant or non-public and provide accessors if needed.(Œªâëûÿÿÿÿ8¼ËÆß±-
+osquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(½Â½ƒıÿÿÿÿ8®Ş‘É±-
+Tsquid:S2696W"6Make the enclosing method "static" or remove this set.(ïÆ¥8¨Åß±-
+Ksquid:S1444"-Make this "public static product" field final(â±ï¯8®Ş‘É±-
+ˆ"squid:ClassVariableVisibilityCheck"NMake ok a static final constant or non-public and provide accessors if needed.(…ëëÇşÿÿÿÿ8®Ş‘É±-
+’"squid:ClassVariableVisibilityCheck%"]Make clientInputStream a static final constant or non-public and provide accessors if needed.(ï‘Ù¡8¦ÀÅß±-
+Tsquid:S2696I"6Make the enclosing method "static" or remove this set.(ÇğË‰8ˆĞ¬Ï±-
+˜"squid:ClassVariableVisibilityCheck)"^Make clientOutputStream a static final constant or non-public and provide accessors if needed.(ÿ¯‰İşÿÿÿÿ8‹‹Åß±-
+Ssquid:S22095"5Change this instance-reference to a static reference.(÷ã´½8¸³Æß±-
+Bsquid:S1148­"#Use a logger to log this exception.(Ç’Çê8®Ş‘É±-
+squid:S1319´"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‹Ú²İ8®Ş‘É±-
+Bsquid:S30104"%Remove this assignment of "userName".(’ó¼8¼ËÆß±-
+›"squid:ClassVariableVisibilityCheck"gMake product_ArraylistOfConsumer a static final constant or non-public and provide accessors if needed.(Ûí’;8®Ş‘É±-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(â±ï¯8õŞß±-
+Qsquid:S1444".Make this "public static password" field final(İÿ¢şÿÿÿÿ8¸³Æß±-
+Usquid:S1444%"7Make this "public static clientInputStream" field final(ï‘Ù¡8¦ÀÅß±-
+„squid:S00116"fRename this field "product_ArraylistOfConsumer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûí’;8®Ş‘É±-
+asquid:S1444+">Make this "public static clientOutputStreamWriter" field final(÷æÑøÿÿÿÿ8ÉñÄß±-
+Ysquid:S2696["6Make the enclosing method "static" or remove this set.(ÒÉ¤Çıÿÿÿÿ8ÉñÄß±-
+Jsquid:S14441",Make this "public static writer" field final(Ò¶Ä8Ê‹Äß±-
+\
+squid:S106Ú"9Replace this use of System.out or System.err by a logger.(Ş´öùÿÿÿÿ8®Ş‘É±-
+Ysquid:S2696_"6Make the enclosing method "static" or remove this set.(î˜°¯ıÿÿÿÿ8ÿÚÄß±-
+osquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(ï¡†÷ÿÿÿÿÿ8ØŠ´Ô±-
+isquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(´¦Âƒ8®Ş‘É±-
+Tsquid:S1444"1Make this "public static userAccount" field final(øÄ¾èúÿÿÿÿ8­¬›ä±-
+nsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(½Â½ƒıÿÿÿÿ8âÔñÊ±-
+"squid:ClassVariableVisibilityCheck"TMake password a static final constant or non-public and provide accessors if needed.(İÿ¢şÿÿÿÿ8¸³Æß±-
+¤squid:S1319"†The type of the "product_ArraylistOfConsumer" object should be an interface such as "List" rather than the implementation "ArrayList".(Ûí’;8®Ş‘É±-
+Jsquid:S1444-",Make this "public static reader" field final(áÏ¯8ÿÚÄß±-
+squid:S1319†"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ùí¯8œÀ·Ï±-
+\
+squid:S106ÿ"9Replace this use of System.out or System.err by a logger.(ğ®Á¹ùÿÿÿÿ8ÆôÔë±-
+squid:S1319"{The type of the "productArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ÖÙŞ’şÿÿÿÿ8®Ş‘É±-
+Tsquid:S2696a"6Make the enclosing method "static" or remove this set.(™üÌõ8Ê‹Äß±-
+‘squid:S1319†"rThe type of the "product" object should be an interface such as "List" rather than the implementation "ArrayList".(ùí¯8âƒÙÏ±-
+Zsquid:S2696…"6Make the enclosing method "static" or remove this set.(ûéÙÛşÿÿÿÿ8é›Úà±-
+Qsquid:S1444".Make this "public static userName" field final(Œªâëûÿÿÿÿ8¼ËÆß±-
+Rsquid:S22094"5Change this instance-reference to a static reference.(’ó¼8¼ËÆß±-
+€squid:S00116"aRename this field "product_listOfConsumer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ÿ¡¨8®Ş‘É±-
+‡"squid:ClassVariableVisibilityCheck1"RMake writer a static final constant or non-public and provide accessors if needed.(Ò¶Ä8Ê‹Äß±-
+Rsquid:S1191"5Use classes from the Java API instead of Sun classes.(¤³ƒX8’ÌÅˆ­-
+ˆ"squid:ClassVariableVisibilityCheck"SMake product a static final constant or non-public and provide accessors if needed.(â±ï¯8®Ş‘É±-
+qsquid:ModifiersOrderCheck!"EReorder the modifiers to comply with the Java Language Specification.(É·ü8®Ş‘É±-
+V
+squid:S106{"9Replace this use of System.out or System.err by a logger.(ÇËÔñ8®Ş‘É±-
+‘"squid:ClassVariableVisibilityCheck"WMake userAccount a static final constant or non-public and provide accessors if needed.(øÄ¾èúÿÿÿÿ8­¬›ä±-
+‘"squid:ClassVariableVisibilityCheck"WMake productList a static final constant or non-public and provide accessors if needed.(»ƒÂúÿÿÿÿ8®Ş‘É±-
+Tsquid:S1444"1Make this "public static productList" field final(»ƒÂúÿÿÿÿ8ˆĞ¬Ï±-

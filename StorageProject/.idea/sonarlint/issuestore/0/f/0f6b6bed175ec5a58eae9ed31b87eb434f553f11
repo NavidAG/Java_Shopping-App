@@ -1,0 +1,63 @@
+
+‡"squid:ClassVariableVisibilityCheck"RMake reader a static final constant or non-public and provide accessors if needed.(áÏ¯8îÌË±-
+Tsquid:S2696j"6Make the enclosing method "static" or remove this set.(ÊáÖ˜8®·ÌË±-
+Tsquid:S2696f"6Make the enclosing method "static" or remove this set.(Àıüò8â¥ËË±-
+Ysquid:S2209ˆ"5Change this instance-reference to a static reference.(Ğ·õ¸üÿÿÿÿ8Àİ¹ä±-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“ç§éøÿÿÿÿ8õ¬ôê±-
+‘"squid:ClassVariableVisibilityCheck+"WMake productList a static final constant or non-public and provide accessors if needed.(»ƒÂúÿÿÿÿ8ûÁ×ç±-
+osquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8õ¬ôê±-
+osquid:CommentedOutCodeLineœ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8õ¬ôê±-
+osquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(äèÊ úÿÿÿÿ8õ¬ôê±-
+squid:S1319K"rThe type of the "product" object should be an interface such as "List" rather than the implementation "ArrayList".(¿Äßùÿÿÿÿ
+Ksquid:S1444)"-Make this "public static product" field final(Îü±ê8´ÒÏË±-
+Esquid:S2386N""Make member "product" "protected".(Ç§è’üÿÿÿÿ8´ÒÏË±-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ÆĞæ
+\squid:S1444">Make this "public static serverOutputStreamWriter" field final(üİä8®·ÌË±-
+zsquid:S1450 "WRemove the "userName" field and declare it as a local variable in the relevant methods.(Û”øÚøÿÿÿÿ8à•ÏË±-
+Ssquid:S2209‰"5Change this instance-reference to a static reference.(Ç¾Ób8´ÒÏË±-
+Ysquid:S2696n"6Make the enclosing method "static" or remove this set.(ÆÁÁõøÿÿÿÿ8îÌË±-
+‡"squid:ClassVariableVisibilityCheck"RMake writer a static final constant or non-public and provide accessors if needed.(Ò¶Ä8îÌË±-
+ˆ"squid:ClassVariableVisibilityCheck)"SMake product a static final constant or non-public and provide accessors if needed.(Îü±ê8´ÒÏË±-
+osquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8õ¬ôê±-
+Bsquid:S1148Ä"#Use a logger to log this exception.(Ç’Çê8ÕúÏ×­-
+˜"squid:ClassVariableVisibilityCheck"cMake serverInputStreamReader a static final constant or non-public and provide accessors if needed.(Ú’ƒ–8äËË±-
+jsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(°ùí§8õ¬ôê±-
+squid:S1319ğ"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ùí¯8şå•ç±-
+nsquid:S00100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùí¯8şå•ç±-
+‘squid:S1319ğ"rThe type of the "product" object should be an interface such as "List" rather than the implementation "ArrayList".(ùí¯8şå•ç±-
+jsquid:CommentedOutCodeLine¤"<This block of commented-out lines of code should be removed.(¿’Òí8õ¬ôê±-
+osquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(²øËóıÿÿÿÿ8õ¬ôê±-
+\
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(Ş´öùÿÿÿÿ8•ªƒç±-
+osquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8õ¬ôê±-
+zsquid:S1450!"WRemove the "password" field and declare it as a local variable in the relevant methods.(œãë­úÿÿÿÿ8øûÎË±-
+]squid:S1444":Make this "public static serverBufferedWriter" field final(Û†³»úÿÿÿÿ8îÌË±-
+Jsquid:S1444",Make this "public static writer" field final(Ò¶Ä8îÌË±-
+Usquid:S1444"7Make this "public static serverInputStream" field final(öó—•8â¥ËË±-
+Jsquid:S1444",Make this "public static reader" field final(áÏ¯8îÌË±-
+osquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(‘ÂØ¡ûÿÿÿÿ8èˆç±-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á¿¹Èûÿÿÿÿ8õ¬ôê±-
+Gsquid:S3010N"$Remove this assignment of "product".(Ç§è’üÿÿÿÿ8´ÒÏË±-
+osquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(€Åş–ùÿÿÿÿ8õ¬ôê±-
+jsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(ß§ñÍ8õ¬ôê±-
+“"squid:ClassVariableVisibilityCheck"^Make serverOutputStream a static final constant or non-public and provide accessors if needed.(‰«û›8®·ÌË±-
+squid:S1319)"rThe type of the "product" object should be an interface such as "List" rather than the implementation "ArrayList".(Îü±ê8´ÒÏË±-
+osquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8õ¬ôê±-
+š"squid:ClassVariableVisibilityCheck"`Make serverBufferedWriter a static final constant or non-public and provide accessors if needed.(Û†³»úÿÿÿÿ8îÌË±-
+osquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8õ¬ôê±-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(×èıÿÿÿÿ8õ¬ôê±-
+Xsquid:S2209N"5Change this instance-reference to a static reference.(Ç§è’üÿÿÿÿ8´ÒÏË±-
+[squid:S1444"=Make this "public static serverInputStreamReader" field final(Ú’ƒ–8äËË±-
+psquid:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚Õ¨
+Tsquid:S1444+"1Make this "public static productList" field final(»ƒÂúÿÿÿÿ8ûÁ×ç±-
+’"squid:ClassVariableVisibilityCheck"]Make serverInputStream a static final constant or non-public and provide accessors if needed.(öó—•8â¥ËË±-
+wsquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò› á8‰‰Ää±-
+gsquid:HiddenFieldCheckb"@Rename "clientSocket" which hides the field declared at line 16.(¢ÌÅşúÿÿÿÿ
+Ysquid:S2696h"6Make the enclosing method "static" or remove this set.(¸¼Şßùÿÿÿÿ8äËË±-
+Tsquid:S2696l"6Make the enclosing method "static" or remove this set.(ùÇÃº8®·ÌË±-
+Tsquid:S2696r"6Make the enclosing method "static" or remove this set.(Ñ¿—Á8îÌË±-
+Ysquid:S2696p"6Make the enclosing method "static" or remove this set.(‘ÍíÜúÿÿÿÿ8îÌË±-
+Vsquid:S1444"8Make this "public static serverOutputStream" field final(‰«û›8®·ÌË±-
+T
+squid:S106d"9Replace this use of System.out or System.err by a logger.(ªùÜûÿÿÿÿ
+™"squid:ClassVariableVisibilityCheck"dMake serverOutputStreamWriter a static final constant or non-public and provide accessors if needed.(üİä8®·ÌË±-

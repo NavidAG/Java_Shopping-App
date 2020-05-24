@@ -1,0 +1,109 @@
+
+osquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(ÎŸéŸşÿÿÿÿ8ñÄøı°-
+osquid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(ï±Á´ùÿÿÿÿ8öÌ¯´-
+‘"squid:ClassVariableVisibilityCheckS"]Make passwordTextField a static final constant or non-public and provide accessors if needed.(ŒÌv8˜Ê©Ê±-
+esquid:S2259’"FA "NullPointerException" could be thrown; "products" is nullable here.(ğÜìÓ8æõÔì±-
+Tsquid:S2209¬"5Change this instance-reference to a static reference.(ó¯¢†8æõÔì±-
+Wsquid:S1444Á"8Make this "public static shopManagmentScene" field final(ˆãÆ8‚°œş°-
+Ysquid:S2209ó"5Change this instance-reference to a static reference.(œ¡ƒ‰ıÿÿÿÿ8æõÔì±-
+vsquid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Àé«úÿÿÿÿ8æõÔì±-
+jsquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(¡Õ±š8æõÔì±-
+jsquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(Ëè±Ë8›§¯´-
+Tsquid:S2209¾	"5Change this instance-reference to a static reference.(¡çÉô8æõÔì±-
+Asquid:S2386£"Make this member "protected".(É³ƒ¨üÿÿÿÿ8ØºÏ±-
+k$squid:AssignmentInSubExpressionCheckœ	".Extract the assignment out of this expression.(ÚÅÂªúÿÿÿÿ8æõÔì±-
+Ysquid:S2209á"5Change this instance-reference to a static reference.(¼ûŞèùÿÿÿÿ8æõÔì±-
+Tsquid:S2209±	"5Change this instance-reference to a static reference.(Ô¾Ş¥8æõÔì±-
+jsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(çäâ8æõÔì±-
+Ysquid:S2209€"5Change this instance-reference to a static reference.(¼ûŞèùÿÿÿÿ8æõÔì±-
+Usquid:S2696È"6Make the enclosing method "static" or remove this set.(°öÔú8›¹ı°-
+jsquid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(‰¼èî8”…¯ì±-
+Osquid:S1444¿"0Make this "public static aboutScene" field final(¡³‡8½ë™ş°-
+csquid:S1854ˆ"?Remove this useless assignment to local variable "trashButton".(á­Ÿİıÿÿÿÿ8ŸÏæ®´-
+`squid:S1854€"<Remove this useless assignment to local variable "newValue".(¼ûŞèùÿÿÿÿ8ŸÏæ®´-
+Psquid:S1602´",Remove useless curly braces around statement(äˆƒ™øÿÿÿÿ8æõÔì±-
+Tsquid:S1444S"7Make this "public static passwordTextField" field final(ŒÌv8˜Ê©Ê±-
+§"squid:ClassVariableVisibilityCheck£"lMake productArrayListOfConsumerString a static final constant or non-public and provide accessors if needed.(É³ƒ¨üÿÿÿÿ8ØºÏ±-
+squid:S1192Ö"`Define a constant instead of duplicating this literal "-fx-text-fill: rgb(245,196,82);" 3 times.(»–ñø8æõÔì±-
+Tsquid:S2209‰"5Change this instance-reference to a static reference.(Šò†Æ8æõÔì±-
+osquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(ï±Á´ùÿÿÿÿ8µ‘¯´-
+Ysquid:S2209¨	"5Change this instance-reference to a static reference.(Î”•€ÿÿÿÿÿ8æõÔì±-
+Asquid:S2386¥"Make this member "protected".(´»½şÿÿÿÿ8õìºÏ±-
+Zsquid:S2696ö"6Make the enclosing method "static" or remove this set.(¸ó³åÿÿÿÿÿ8æõÔì±-
+Œ"squid:ClassVariableVisibilityCheck¿"VMake aboutScene a static final constant or non-public and provide accessors if needed.(¡³‡8½ë™ş°-
+jsquid:S1444£"FMake this "public static productArrayListOfConsumerString" field final(É³ƒ¨üÿÿÿÿ8ØºÏ±-
+Tsquid:S2209…"5Change this instance-reference to a static reference.(Œí­8‰ğÆè±-
+¨"squid:ClassVariableVisibilityCheck¥"mMake productArrayListOfConsumerProduct a static final constant or non-public and provide accessors if needed.(´»½şÿÿÿÿ8õìºÏ±-
+Tsquid:S2209„"5Change this instance-reference to a static reference.(£œÒÁ8‰ğÆè±-
+Ysquid:S2209³	"5Change this instance-reference to a static reference.(½Œ†·úÿÿÿÿ8æõÔì±-
+jsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(ÈƒÎ½8æõÔì±-
+Zsquid:S2696­"6Make the enclosing method "static" or remove this set.(‘¼µÆùÿÿÿÿ8æõÔì±-
+osquid:CommentedOutCodeLineõ"<This block of commented-out lines of code should be removed.(¢¬Ü¡ÿÿÿÿÿ8æõÔì±-
+Ysquid:S2209ç"5Change this instance-reference to a static reference.(‰ø×Üıÿÿÿÿ8æõÔì±-
+±squid:S1319¥"ŒThe type of the "productArrayListOfConsumerProduct" object should be an interface such as "List" rather than the implementation "ArrayList".(´»½şÿÿÿÿ8õìºÏ±-
+^squid:UnusedPrivateMethod«"2Remove this unused private "removeProduct" method.(âİ]8Õ¿ûŞ±-
+’"squid:ClassVariableVisibilityCheckR"]Make usernameTextField a static final constant or non-public and provide accessors if needed.(ÃÀ§ì8ˆ•§Ê±-
+Tsquid:S2209°"5Change this instance-reference to a static reference.(û¯„8‰ğÆè±-
+qsquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­©ë‚8æõÔì±-
+ksquid:S1192¦"LDefine a constant instead of duplicating this literal "Arial Bold" 12 times.(Çôˆà8æõÔì±-
+Ysquid:S2209í"5Change this instance-reference to a static reference.(ğ¼¦èûÿÿÿÿ8æõÔì±-
+isquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(¢Û”÷8ÃàÀº±-
+jsquid:CommentedOutCodeLineÚ	"<This block of commented-out lines of code should be removed.(Ü÷­‹8æõÔì±-
+osquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(ú¡ò×üÿÿÿÿ8æõÔì±-
+isquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(ÏüÕÖ8ÃàÀº±-
+Qsquid:S1481€"-Remove this unused "newValue" local variable.(¼ûŞèùÿÿÿÿ8æõÔì±-
+Psquid:S1153¥	"1Directly append the argument of String.valueOf().(÷±ÖŠ8æõÔì±-
+Tsquid:S1481ˆ"0Remove this unused "trashButton" local variable.(á­Ÿİıÿÿÿÿ8æõÔì±-
+osquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(… õ¾ÿÿÿÿÿ8æõÔì±-
+Tsquid:S2209–	"5Change this instance-reference to a static reference.(Ô¾Ş¥8æõÔì±-
+osquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(ĞûíÔÿÿÿÿÿ8æõÔì±-
+osquid:CommentedOutCodeLine÷"<This block of commented-out lines of code should be removed.(´µÒ™ùÿÿÿÿ8æõÔì±-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„ôW8¹Ù¯É±-
+Ksquid:S1444Â",Make this "public static window" field final(ØÏ¦ğ8›¹ı°-
+osquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8æõÔì±-
+°squid:S1319£"‹The type of the "productArrayListOfConsumerString" object should be an interface such as "List" rather than the implementation "ArrayList".(É³ƒ¨üÿÿÿÿ8ØºÏ±-
+jsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(§²şŠ8æõÔì±-
+jsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(ôÙ²Ç8æõÔì±-
+osquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(‰ƒß–ùÿÿÿÿ8æõÔì±-
+qsquid:S00117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÕÕå8æõÔì±-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹ü¨ş8¸´”š±-
+isquid:HiddenFieldCheckø"?Rename "signInTitle" which hides the field declared at line 98.(åÌÀÆ8ú¢Ìš±-
+Usquid:S2696ÿ"6Make the enclosing method "static" or remove this set.(Ğ¤üµ8æõÔì±-
+Tsquid:S2209ì"5Change this instance-reference to a static reference.(İÖµ™8™ğ«ì±-
+osquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(ï±Á´ùÿÿÿÿ8ÛÂ¯´-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ş“¦
+İsquid:S1192Ú"¸Define a constant instead of duplicating this literal "-fx-background-color: transparent;-fx-border-width: 1;-fx-border-color: white;-fx-border-radius: 2;-fx-text-fill: white" 4 times.(Ä‡¬üÿÿÿÿ8æõÔì±-
+hsquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(âö8›¹ı°-
+jsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(ÛœÄí8¥•‰š±-
+Ysquid:S2209¨	"5Change this instance-reference to a static reference.(Î”•€ÿÿÿÿÿ8æõÔì±-
+¼squid:S1192‚"œDefine a constant instead of duplicating this literal "-fx-border-width: 2;-fx-background-color: rgba(225,225,225,.6);-fx-prompt-text-fill: Black;" 3 times.(‡¿ãû8æõÔì±-
+osquid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(çÍ·éùÿÿÿÿ8æõÔì±-
+squid:S1319­	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¡¤İ²8æõÔì±-
+vsquid:S00117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“±îêùÿÿÿÿ8æõÔì±-
+}squid:S1171…	"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8æõÔì±-
+Rsquid:S2209†"5Change this instance-reference to a static reference.(­Ë8‰ğÆè±-
+Ysquid:S2209ˆ"5Change this instance-reference to a static reference.(­âá¼şÿÿÿÿ8æõÔì±-
+Tsquid:S2209‡"5Change this instance-reference to a static reference.(Ô¾Ş¥8æõÔì±-
+;squid:S2386"Make this member "protected".(„ôW8ÔÎ¹Ï±-
+qsquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘­¹Õ8æõÔì±-
+Tsquid:S2209¼	"5Change this instance-reference to a static reference.(Ô¾Ş¥8æõÔì±-
+ksquid:S1444¥"GMake this "public static productArrayListOfConsumerProduct" field final(´»½şÿÿÿÿ8õìºÏ±-
+Tsquid:S2209˜	"5Change this instance-reference to a static reference.(Šò†Æ8æõÔì±-
+Tsquid:S2209‡"5Change this instance-reference to a static reference.(œ…ØÀ8‰ğÆè±-
+Zsquid:S1444"<Make this "public static productArrayListString" field final(„ôW8ÔÎ¹Ï±-
+`squid:S1854œ	"<Remove this useless assignment to local variable "products".(ÚÅÂªúÿÿÿÿ8ŸÏæ®´-
+Ysquid:S2209®"5Change this instance-reference to a static reference.(ğÙ¥»şÿÿÿÿ8ïã±ì±-
+ˆ"squid:ClassVariableVisibilityCheckÂ"RMake window a static final constant or non-public and provide accessors if needed.(ØÏ¦ğ8›¹ı°-
+Tsquid:S2209¥	"5Change this instance-reference to a static reference.(÷±ÖŠ8æõÔì±-
+osquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(äÌñàùÿÿÿÿ8æõÔì±-
+—"squid:ClassVariableVisibilityCheck"bMake productArrayListString a static final constant or non-public and provide accessors if needed.(„ôW8Ê¦¾ı°-
+Zsquid:S2696…"6Make the enclosing method "static" or remove this set.(âÁÊèûÿÿÿÿ8æõÔì±-
+”"squid:ClassVariableVisibilityCheckÁ"^Make shopManagmentScene a static final constant or non-public and provide accessors if needed.(ˆãÆ8‚°œş°-
+Usquid:S2696Ÿ"6Make the enclosing method "static" or remove this set.(“ƒ´ë8¥•‰š±-
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ò©ÕÉ8¥•‰š±-
+vsquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ§¯Ìÿÿÿÿÿ8æõÔì±-
+jsquid:S1192­"KDefine a constant instead of duplicating this literal "Helvetica" 12 times.(İÚç»8æõÔì±-
+osquid:CommentedOutCodeLine¡"<This block of commented-out lines of code should be removed.(—Ì€Öúÿÿÿÿ8ÎôŞ±-
+ squid:S1319"The type of the "productArrayListString" object should be an interface such as "List" rather than the implementation "ArrayList".(„ôW8Ê¦¾ı°-
+osquid:S1192Ã"PDefine a constant instead of duplicating this literal "StorageIcon.png" 4 times.(¢¼†ï8æõÔì±-
+Usquid:S1444R"7Make this "public static usernameTextField" field final(ÃÀ§ì8ˆ•§Ê±-
