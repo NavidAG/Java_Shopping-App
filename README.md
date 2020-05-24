@@ -6,3 +6,5 @@ This is a shopping app which my teammate and I made (A university project, actua
 Developed using Java and JavaFX, with somehow beautiful UI. I decided to put this in GitHub so it might be helpful to some developers. 
 ## My intention is to contribute to open-source community.
 
+#####Here are some screenshots 
+![admin login page](https://github.com/NavidAG/ShoppingApp/blob/master/admin%20page%201.png)
