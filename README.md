@@ -7,4 +7,8 @@ Developed using Java and JavaFX, with somehow beautiful UI. I decided to put thi
 ## My intention is to contribute to open-source community.
 
 #####Here are some screenshots 
-![admin login page](https://github.com/NavidAG/ShoppingApp/blob/master/admin%20page%201.png)
+![admin login page](https://github.com/NavidAG/ShoppingApp/blob/master/Admin%20login%20page.png)
+![admin page](https://github.com/NavidAG/ShoppingApp/blob/master/admin%20page%201.png)
+
+![guest login page](https://github.com/NavidAG/ShoppingApp/blob/master/Guest%20login%20page.png)
+![guest login page](https://github.com/NavidAG/ShoppingApp/blob/master/Admin%20main%20page.png)
